@@ -7,7 +7,7 @@ In learning HTML/CSS I used the following resources :
 
 - 
 
-# End Project
+# Project_one_HTML
 
 - [Cat Photo App](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app)
 
